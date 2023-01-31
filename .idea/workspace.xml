@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa90144-7573-482e-988b-7ebb42ab35fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun_With_Quizzes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/CheckBoxQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/LinearScale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/MultipleChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/QuizRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunWithQuizzesStudio/ShortAnswerQuestion.java" afterDir="false" />
-    </list>
+    <list default="true" id="5fa90144-7573-482e-988b-7ebb42ab35fe" name="Changes" comment="Finished studio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675127426341</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished studio">
+      <created>1675134908195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675134908195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished studio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished studio" />
   </component>
 </project>
